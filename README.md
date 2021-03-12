@@ -6,3 +6,4 @@
 - Pushed everything to remote repository
 - Merged the branches
 - Added codewar challenges' solution
+- Deleted a file, `git rm <File_Name>`
